@@ -1,0 +1,28 @@
+.navbar-nav a {
+    font-size: 18px;
+}
+
+#SeconNav{
+    margin-bottom: 25px;
+}
+#SeconNav .texto-segundoNav {
+    margin-top: 5rem;
+}
+#bat-e404 {
+    text-decoration: none;
+    color: white;
+}
+#verMas {
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+}
+#notificaciones{
+    background-color: #f7ebdf;
+    margin-top: 25px;
+    margin-bottom: 25px;    
+    margin-bottom: 60px;
+}
+#productos{
+    margin-bottom: 125px;
+}
